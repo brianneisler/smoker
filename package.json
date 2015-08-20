@@ -1,0 +1,9 @@
+{
+    "name": "smoker",
+    "version": "0.0.1",
+    "description": "Raspberry Pi driver for the smoker",
+    "main": "smoker.js",
+    "dependencies": {
+        "max31855pi": "1.0.0"
+    }
+}
